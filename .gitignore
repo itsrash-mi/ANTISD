@@ -24,3 +24,7 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Frontend local-only files
+frontend/.gitignore
+frontend/README.md
